@@ -2,7 +2,7 @@ name: Multiple shells commands v2
 on:
   push:
     branches:
-      - "main"
+      - "master"
   pull_request:
     types: [closed, assigned, opened, reopened]
 jobs:
